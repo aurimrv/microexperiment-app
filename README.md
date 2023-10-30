@@ -2,6 +2,12 @@
 
 `./gradlew bundle`
 
+## Before Running
+
+### BundleTool
+
+To extract `.apk` from `.aab` file, we used [bundletool](https://github.com/google/bundletool/). We just download the [version 1.15.1 jar file](https://github.com/google/bundletool/releases/download/1.15.5/bundletool-all-1.15.5.jar) and run it with some parameters detailed below.
+
 ## Experimental Results Using R8 minify for APK code optimization in Debug version
 
 ```
