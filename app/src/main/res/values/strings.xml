@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MicroExperiment</string>
+    <string name="btnStartExperiment">Run</string>
+</resources>
